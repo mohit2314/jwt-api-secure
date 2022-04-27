@@ -1,0 +1,23 @@
+{
+  "name": "jwt-api-secure",
+  "version": "1.0.0",
+  "description": "securing api with jwt",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohit2314/jwt-api-secure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohit2314/jwt-api-secure/issues"
+  },
+  "homepage": "https://github.com/mohit2314/jwt-api-secure#readme",
+  "dependencies": {
+    "express": "^4.18.0",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
